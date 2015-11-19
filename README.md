@@ -1,7 +1,7 @@
 - Wordpress Plugin Reflex Gallery Arbitrary File Upload / INURL - BRASIL
 
 ```
-  # AUTOR:        Cleiton Pinheiro / Nick: googleINURL
+  # AUTOR:        googleINURL
   # Blog:         http://blog.inurl.com.br
   # Twitter:      https://twitter.com/googleinurl
   # Fanpage:      https://fb.com/InurlBrasil
